@@ -1,0 +1,27 @@
+## Dead links (404)
+
+- [xml/admin_install_salt.xml#L460](xml/admin_install_salt.xml#L460)
+- [xml/admin_install_salt.xml#L475](xml/admin_install_salt.xml#L475)
+
+## Links to older SLES
+
+- [xml/admin_ceph_gateway.xml#L4458](xml/admin_ceph_gateway.xml#L4458)
+- [xml/admin_ceph_iscsi.xml#L63](xml/admin_ceph_iscsi.xml#L63)
+- [xml/admin_ceph_iscsi.xml#L65](xml/admin_ceph_iscsi.xml#L65)
+- [xml/admin_ceph_kvm.xml#L34](xml/admin_ceph_kvm.xml#L34)
+- [xml/admin_ceph_troubleshooting.xml#L46](xml/admin_ceph_troubleshooting.xml#L46)
+- [xml/admin_install_salt.xml#L604](xml/admin_install_salt.xml#L604)
+- [xml/admin_install_salt.xml#L611](xml/admin_install_salt.xml#L611)
+- [xml/admin_nfsganesha.xml#L26](xml/admin_nfsganesha.xml#L26)
+- [xml/admin_saltcluster.xml#L1375](xml/admin_saltcluster.xml#L1375)
+- [xml/deployment_admin_ha.xml#L111](xml/deployment_admin_ha.xml#L111)
+- [xml/deployment_admin_ha.xml#L119](xml/deployment_admin_ha.xml#L119)
+- [xml/admin_ceph_gateway.xml#L4458](xml/admin_ceph_gateway.xml#L4458)
+- [xml/deployment_admin_ha.xml#L74](xml/deployment_admin_ha.xml#L74)
+- [xml/deployment_admin_ha.xml#L103](xml/deployment_admin_ha.xml#L103)
+- [xml/deployment_admin_ha.xml#L136](xml/deployment_admin_ha.xml#L136)
+- [xml/deployment_cifs.xml#L195](xml/deployment_cifs.xml#L195)
+- [xml/deployment_cifs.xml#L209](xml/deployment_cifs.xml#L209)
+- [xml/deployment_cifs.xml#L420](xml/deployment_cifs.xml#L420)
+- [xml/deployment_ganesha.xml#L212](xml/deployment_ganesha.xml#L212)
+- [xml/deployment_ganesha.xml#L234](xml/deployment_ganesha.xml#L234)
